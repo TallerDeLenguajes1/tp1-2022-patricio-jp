@@ -1,0 +1,16 @@
+C:\Users\Alumno\Downloads\Nueva carpeta\tp1-2022-patricio-jp\MiniEjercicios\Problema2\obj\Debug\net5.0\Problema2.csproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\Nueva carpeta\tp1-2022-patricio-jp\MiniEjercicios\Problema2\obj\Debug\net5.0\Problema2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Downloads\Nueva carpeta\tp1-2022-patricio-jp\MiniEjercicios\Problema2\obj\Debug\net5.0\Problema2.AssemblyInfoInputs.cache
+C:\Users\Alumno\Downloads\Nueva carpeta\tp1-2022-patricio-jp\MiniEjercicios\Problema2\obj\Debug\net5.0\Problema2.AssemblyInfo.cs
+C:\Users\Alumno\Downloads\Nueva carpeta\tp1-2022-patricio-jp\MiniEjercicios\Problema2\obj\Debug\net5.0\Problema2.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\Nueva carpeta\tp1-2022-patricio-jp\MiniEjercicios\Problema2\bin\Debug\net5.0\Problema2.exe
+C:\Users\Alumno\Downloads\Nueva carpeta\tp1-2022-patricio-jp\MiniEjercicios\Problema2\bin\Debug\net5.0\Problema2.deps.json
+C:\Users\Alumno\Downloads\Nueva carpeta\tp1-2022-patricio-jp\MiniEjercicios\Problema2\bin\Debug\net5.0\Problema2.runtimeconfig.json
+C:\Users\Alumno\Downloads\Nueva carpeta\tp1-2022-patricio-jp\MiniEjercicios\Problema2\bin\Debug\net5.0\Problema2.runtimeconfig.dev.json
+C:\Users\Alumno\Downloads\Nueva carpeta\tp1-2022-patricio-jp\MiniEjercicios\Problema2\bin\Debug\net5.0\Problema2.dll
+C:\Users\Alumno\Downloads\Nueva carpeta\tp1-2022-patricio-jp\MiniEjercicios\Problema2\bin\Debug\net5.0\ref\Problema2.dll
+C:\Users\Alumno\Downloads\Nueva carpeta\tp1-2022-patricio-jp\MiniEjercicios\Problema2\bin\Debug\net5.0\Problema2.pdb
+C:\Users\Alumno\Downloads\Nueva carpeta\tp1-2022-patricio-jp\MiniEjercicios\Problema2\obj\Debug\net5.0\Problema2.dll
+C:\Users\Alumno\Downloads\Nueva carpeta\tp1-2022-patricio-jp\MiniEjercicios\Problema2\obj\Debug\net5.0\ref\Problema2.dll
+C:\Users\Alumno\Downloads\Nueva carpeta\tp1-2022-patricio-jp\MiniEjercicios\Problema2\obj\Debug\net5.0\Problema2.pdb
+C:\Users\Alumno\Downloads\Nueva carpeta\tp1-2022-patricio-jp\MiniEjercicios\Problema2\obj\Debug\net5.0\Problema2.genruntimeconfig.cache
